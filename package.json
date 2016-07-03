@@ -1,0 +1,12 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "Test",
+  "author": "Bohdan Tkachenko <bohdan@tkachenko.io>",
+  "license": "MIT",
+  "devDependencies": {
+    "webpack": "*",
+    "webpack-split-by-path": "git://github.com/e-cloud/webpack-split-by-path.git#e-cloud-manifest-patch",
+    "html-webpack-plugin": "*"
+  }
+}
